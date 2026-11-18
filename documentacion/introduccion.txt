@@ -1,0 +1,3 @@
+INTRODUCCIÓN
+
+Este proyecto representa un sistema ficticio de gestión documental.
