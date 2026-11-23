@@ -1,0 +1,5 @@
+Estadisticas del sistema
+
+Expedientes registrados: 150
+Usuarios: 25
+Unidades tramitadoras: 5
