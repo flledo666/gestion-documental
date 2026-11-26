@@ -1,0 +1,6 @@
+CONSULTA DE EXPEDIENTES
+=======================
+La aplicación permitirá consultar expedientes por:
+- Número de expediente.
+- Fecha de registro.
+- Estado (abierto, en trámite, archivado).
